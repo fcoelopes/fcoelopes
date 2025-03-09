@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**fcoelopes/fcoelopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos e contribuições.
 
-Here are some ideas to get you started:
+## Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **JS Game**: Um jogo simples de adivinhação de números utilizando JavaScript, HTML e CSS.
+- **Outros Projetos**: Confira meus repositórios para ver mais projetos interessantes.
+
+## Tecnologias
+
+- JavaScript
+- HTML
+- CSS
+- Python
+- Git e GitHub
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/franciscoedsonlsilva)
+- [Email](mailto:fco.edson.lopes@gmai.com)
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato!
