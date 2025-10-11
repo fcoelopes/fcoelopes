@@ -1,11 +1,10 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos e contribuições.
+Olá! Eu sou um aspirante a desenvolvedor que quer aproveitar o tempo livre nos fins de semana para tentar criar algo útil. Aqui, por enquanto, você não encontrará nada de futuro, mas no futuro quem sabe...
 
 ## Projetos em destaque
 
-- **JS Game**: Um jogo simples de adivinhação de números utilizando JavaScript, HTML e CSS.
-- **Outros Projetos**: Confira meus repositórios para ver mais projetos interessantes.
+- None
 
 ## Tecnologias
 
